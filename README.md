@@ -24,7 +24,7 @@ Here are some of my key QA projects:
 
 2. Automated UI Testing with Cypress – A framework for web automation testing.
 
-3. Automated UI Testing with Katalon – A framework for web automation testing.
+3. Automated UI Testing with Katalon – https://github.com/ryanrmdhnp/Katalon-UI-Testing.git
 
 4. Automated API Testing with Katalon – https://github.com/ryanrmdhnp/Katalon-API-Testing.git
 
