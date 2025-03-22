@@ -26,7 +26,7 @@ Here are some of my key QA projects:
 
 3. Automated UI Testing with Katalon – A framework for web automation testing.
 
-4. API Testing with Postman – Collection and test scripts for API testing.
+4. Automated API Testing with Katalon – https://github.com/ryanrmdhnp/Katalon-API-Testing.git
 
 
 
