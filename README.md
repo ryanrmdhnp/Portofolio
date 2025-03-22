@@ -12,8 +12,6 @@ I am a passionate QA Engineer dedicated to ensuring software quality through met
 
 🔹 API Testing (Postman)
 
-🔹 Performance Testing (JMeter)
-
 🔹 Bug Tracking & Reporting (JIRA)
 
 
