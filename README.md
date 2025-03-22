@@ -1,6 +1,6 @@
 # Portofolio
 
-Welcome to my QA Portfolio! This repository showcases my experience, skills, and projects in Quality Assurance (QA), including manual testing, automated testing, bug tracking, and test case development.
+Welcome to my Portfolio! This repository showcases my experience, skills, and projects in Quality Assurance, including manual testing, automated testing, bug tracking, and test case development.
 
 📌 About Me
 
