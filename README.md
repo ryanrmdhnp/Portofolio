@@ -20,7 +20,7 @@ I am a passionate QA Engineer dedicated to ensuring software quality through met
 
 Here are some of my key QA projects:
 
-1. Automated UI Testing with Selenium – A framework for web automation testing.
+1. Automated UI Testing with Selenium – https://github.com/ryanrmdhnp/Selenium.git
 
 2. Automated UI Testing with Cypress – A framework for web automation testing.
 
