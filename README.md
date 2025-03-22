@@ -22,7 +22,7 @@ Here are some of my key QA projects:
 
 1. Automated UI Testing with Selenium – https://github.com/ryanrmdhnp/Selenium.git
 
-2. Automated UI Testing with Cypress – A framework for web automation testing.
+2. Automated UI Testing with Cypress – https://github.com/ryanrmdhnp/Cypress.git
 
 3. Automated UI Testing with Katalon – https://github.com/ryanrmdhnp/Katalon-UI-Testing.git
 
