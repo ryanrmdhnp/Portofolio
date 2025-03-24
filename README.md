@@ -20,13 +20,13 @@ I am a passionate QA Engineer dedicated to ensuring software quality through met
 
 Here are some of my key QA projects:
 
-1. Automated UI Testing with Selenium – https://github.com/ryanrmdhnp/Selenium.git
+1. Automated UI Testing Saucedemo with Selenium – https://github.com/ryanrmdhnp/Selenium.git
 
-2. Automated UI Testing with Cypress – https://github.com/ryanrmdhnp/Cypress.git
+2. Automated UI Testing Saucedemo with Cypress – https://github.com/ryanrmdhnp/Cypress.git
 
-3. Automated UI Testing with Katalon – https://github.com/ryanrmdhnp/Katalon-UI-Testing.git
+3. Automated UI Testing Saucedemo with Katalon – https://github.com/ryanrmdhnp/Katalon-UI-Testing.git
 
-4. Automated API Testing with Katalon – https://github.com/ryanrmdhnp/Katalon-API-Testing.git
+4. Automated API Testing Reqres with Katalon – https://github.com/ryanrmdhnp/Katalon-API-Testing.git
 
 
 
