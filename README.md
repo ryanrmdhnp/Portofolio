@@ -8,7 +8,7 @@ I am a passionate QA Engineer dedicated to ensuring software quality through met
 
 🔹 Manual Testing (Test Cases, Exploratory Testing, Regression Testing)
 
-🔹 Automation Testing (Selenium, Cypress, Katalon)
+🔹 Automation Testing (Selenium, Cypress, Katalon, Playwright)
 
 🔹 API Testing (Postman)
 
