@@ -30,6 +30,14 @@ Here are some of my key QA projects:
 
 
 
+Scenario Test
+
+1. Scenario Test Demoblaze - https://docs.google.com/spreadsheets/d/1d4xwcsreH3G_XHBoFrEhOgTpmzvitCN6RVVvOhxHMVs/edit?usp=sharing
+
+2. Scenario Test LinkedIn Create a Post - https://docs.google.com/spreadsheets/d/14lKq9GFYfsDL118951dX9LdJQwZKn9x51vfDlZ42_g8/edit?usp=sharing
+
+
+
 🔧 Tools & Technologies
 
 - Programming: Python, Java, JavaScript
