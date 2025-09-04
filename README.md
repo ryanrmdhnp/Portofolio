@@ -42,7 +42,7 @@ Scenario Test
 
 - Programming: Python, Java, JavaScript
 
-- Test Automation: Selenium, Cypress, Katalon
+- Test Automation: Selenium, Cypress, Katalon, Playwright
 
 - API Testing: Postman
 
